@@ -1,0 +1,2 @@
+hai this is sravanthi 
+Git is a version control system where it keeps all the old and new versions and it tracks the who modified the code .
